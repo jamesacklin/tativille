@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mauvaise Foi"
-date: 2015-03-15 20:39:20
+date: 2012-12-13
 ---
 
 She’s no [Henri](http://www.youtube.com/watch?v=R_fUsssnHPw), but my cat is certainly more in tune with French existentialism than most folks I know. She sees right through my fragile facade, and knows full well that, like the rest of the merchant class, I’m resigned to lead an inauthentic life and to forever suffer under the weight of mauvaise foi.

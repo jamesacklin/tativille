@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Double Paceline"
-date: 2015-03-15 20:28:32
+title: "The Double Paceline"
+date: 2012-02-27
 ---
 
 This morning, after a thoroughly enlightening meeting over [coffee](http://www.metropoliscoffee.com/) with Lou Kuhn of [The Pony Shop](http://www.facebook.com/pages/The-Pony-Shop/102655166633), I staggered back to Hyde Park for an atypically busy morning in Tativille. First up was a chat with a young woman planning a solo bicycle tour through the Andes mountains. We spent the bulk of our time discussing volcanoes (“I’m an anthropologist first, lepidopterist second, amateur volcanologist third.”) before getting down to the brass tacks of tire pressure, portable tools, handlebar bags, and the all-important titanium spork. She left with a hour’s worth of marginally useful advice and an orange Rhodia pencil.
