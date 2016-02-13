@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Standards"
-date: 2015-03-15 18:27:16
+date: 2010-02-19
 ---
 
 I&rsquo;ve been fortunate enough, over the years, to work in a half dozen shops in various shades of PRO. These experiences have informed and shaped the way TATI has evolved and though very much a work in progress, over the past year or so, I think it&rsquo;s finally found a bit of a groove. This year, we&rsquo;re fortunate enough to have Hyde Park&rsquo;s most talented young mechanic on staff &ndash; a move that has already brought smiles and nods of approval from the shop regulars and the local club scene. One day we were chatting a little about shop standards. His experience back in Colorado is with a large and established service department with clearly articulated service standards and a resultant high billing rate. TATI, on the other hand, is an extremely low volume, mostly custom shop that has existed in something of an operational bubble until now.
