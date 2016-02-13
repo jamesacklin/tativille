@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Idli Mind Is the Devil's Workshop"
-date: 2015-03-15 20:45:58
+date: 2013-07-27
 ---
 
 So there I was: fifteen years old, sleeping in Grand Central Station with a [1978 Zeus Criterium](http://www.speedbicycles.ch/showBike.php?enr=225), a smelly knapsack, and eleven dollars to my name. For three days, I’d wandered around Manhattan, exploring bookstores, bumming cigarettes, and trying to find a lift to Ithaca. I needed to get to Ithaca because, according to my careworn copy of the USCF newsletter, the city would host three days of circuit races followed by a weekend of crits - and I barely had enough money left for bread.

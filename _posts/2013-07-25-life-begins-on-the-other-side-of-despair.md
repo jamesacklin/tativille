@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Life Begins on the Other Side of Despair"
-date: 2015-03-15 20:49:47
+date: 2013-07-25
 ---
 
 I’m not really sure what’s fashionable these days for introverted, Europhilic wanna-be teenage bike racers. But at 14, I’d have to rank [Gitanes](http://s3.amazonaws.com/rapgenius/filepicker%2F2jrAD5HrRYC3zjYq3cZv_gitanes_mais.jpg), bulemia, drillium, Bauhaus (the band, not the movement) and Jean-Paul Sartre as my greatest interests. Of course at 14, I knew nothing in general, and even less about French philosophy, but that hardly stopped me from spouting off at all hours about death consciousness, anticolonialism, morality, existentialism. Needless to say, I wasn’t a very popular child in elementary school. And needless to say, I wasn’t a very popular teammate - particularly on long training rides.

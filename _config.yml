@@ -1,7 +1,7 @@
 # Site settings
 title: Tativille
 email: jamesacklin@gmail.com
-description: Tativille was the companion blog to Tati Cycles, a one-man speciality bike shop in Chicago. The originator, known only as J, has since moved on to other things. Their writing on racing, cycling, bikes, culture, and art was very influential to me as I discovered cycling culture. The domain associated with the shop has long expired, and the blog has gone offline. From what I can discern, J migrated some posts to Tumblr sometime in early 2015, and I was able to retrieve them with the Tumblr API. Here is the great writing of Tati, broken into Markdown files and hopefully archived forever. This is nowhere near the comprehensive list (400+ articles), so if you have more content stashed away that isn't listed here, feel free to email it to me for inclusion. Long live Tati.
+description: An (in-progress) archive of Tativille, the companion blog to Tati Cycles.
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 # Build settings
