@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remembrance of Things Dugast"
-date: 2015-03-15 20:40:54
+date: 2012-12-12
 ---
 
 Among the things I’ve learned in my years in Chicago: Road tubulars don’t corner all that well on black ice, even tenured classics professors can be fans of professional football, and you simply cannot find a decent madeleine in our fair city.

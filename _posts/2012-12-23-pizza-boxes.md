@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pizza Boxes"
-date: 2015-03-15 20:36:51
+date: 2012-12-23
 ---
 
 Last week I finished up a some wheels for a new customer. He’d been pretty clear about what he wanted: Tune to 32h TB25s. In fact, he wanted two identical sets of these wheels. Both sets would get silver CX Rays and Veloflex Arenbergs. And brass nipples. The interesting thing was that the entire order took place over Twitter, in three neat, 140 character messages.
