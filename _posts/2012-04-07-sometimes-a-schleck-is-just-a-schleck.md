@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sometimes a Schleck is Just a Schleck"
-date: 2015-03-15 20:21:01
+date: 2012-04-07
 ---
 
 Ever since the photo of Andy Schleck in his national champion flavored Radioshack-Nissan kit was released, it bothered me. The design itself was appealing enough, clean and simple and structured as it is. No, it was a nagging image buried somewhere in my brain, just one more piece of cycling ephemera buried under layers and layers of equally useless nostalgia and trivia.

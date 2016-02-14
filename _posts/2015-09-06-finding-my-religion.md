@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finding My Religion"
-date: 2015-03-15 20:16:01
+date: 2011-09-06
 ---
 
 Freshman year in high school is rarely a bowl of cherries, and mine was no exception. And so that summer, I buried myself in bicycles: racing, repairing, reading, and recovering. It was my third year racing, which according to my coach (and Eddie B. and all the other Gods of European Cycling) was the year where it would ALL COME TOGETHER and he’d be able to really sort the wheat from the chaff. “If you’re still racing by sixteen,” he said, “then maybe you aren’t going to terrible.”

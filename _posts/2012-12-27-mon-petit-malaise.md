@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Petit Malaise"
-date: 2015-03-15 2015-03-15 20:35:05
+title: "Mon Petit Malaise"
+date: 2012-12-27
 ---
 
 Among the many stupid things I did in college in order to catch a cutie’s eye was read Émile Zola. My neighbor was signed up for a French lit class that included “[Au Bonheur des Dames](http://en.wikipedia.org/wiki/Au_Bonheur_des_Dames)”, and, you know, in order to seem worldly and exude an effortless savoir faire, I figured one day that I’d read it first. Then weeks later, when she’d begin poring over the text, I’d casually drop references to Octave Mouret or Denise Baudu, and then we’d share a cigarette. Needless to say, things didn’t quite work out this way.

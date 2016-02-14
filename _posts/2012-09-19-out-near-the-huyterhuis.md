@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Out Near the Huyterhuis"
-date: 2015-03-15 20:43:33
+date: 2012-09-19
 ---
 
 I was a pretty big cinema buff as a teenager. Folks thought I was studying French and Italian because I was a junior bike racer with big dreams, but it was really because I preferred to avoid reading the subtitles at screenings of Fellini, Godard, Bresson, Truffault… The summer of 1983 was shaping up to be a pretty exciting one. For months, I’d kept track of the planned domestic releases of [Zelig](http://www.youtube.com/watch?v=agkCEOHQVgg), Entre Nous, Octopussy, The Meaning of Life, Scarface, Un jeu brutal, [Krull](http://1.bp.blogspot.com/-ULEieUSr-PQ/TaX2YZfI0nI/AAAAAAAAAIQ/5vf69t_V0Co/s1600/krull.jpg), Senjō no Merī Kurisumasu, The King of Comedy, and, embarrassingly, Flashdance. But I ended up missing every single one of these films on their first runs. Because I was sent to Delft to race bikes.
