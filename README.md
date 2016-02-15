@@ -1,4 +1,4 @@
-# Tativille
+# [Tativille](http://tativille.jamesacklin.com)
 
 Tativille was the companion blog to Tati Cycles, a one-man speciality bike shop in Chicago. The originator, known only as J, has since moved on to other things. J's writing on racing, cycling, bikes, culture, and art was very influential to me as I discovered cycling culture.
 
