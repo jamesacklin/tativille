@@ -21,6 +21,7 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
 }
 
 
@@ -45,6 +46,16 @@ img {
     vertical-align: middle;
 }
 
+/**
+ * Horizontal rules
+ */
+hr {
+  margin: 1em 0;
+  height: 0;
+  border-width: 0 0 1px 0;
+  border-style: dotted;
+  border-color: $grey-color;
+}
 
 
 /**
