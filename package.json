@@ -1,0 +1,27 @@
+{
+  "name": "tativille",
+  "version": "1.0.0",
+  "description": "Tativille was the companion blog to Tati Cycles, a one-man speciality bike shop in Chicago. The originator, known only as J, has since moved on to other things. J's writing on racing, cycling, bikes, culture, and art was very influential to me as I discovered cycling culture.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx eleventy",
+    "serve": "npx eleventy --serve",
+    "debug": "DEBUG=* npx eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesacklin/tativille.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesacklin/tativille/issues"
+  },
+  "homepage": "https://github.com/jamesacklin/tativille#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.9.0"
+  },
+  "devDependencies": {
+    "moment": "^2.24.0"
+  }
+}
