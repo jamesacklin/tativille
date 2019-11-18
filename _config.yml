@@ -1,8 +1,0 @@
-# Site settings
-title: Tativille
-email: jamesacklin@gmail.com
-description: An (in-progress) archive of Tativille, the companion blog to Tati Cycles.
-baseurl: "" # the subpath of your site, e.g. /blog/
-
-# Build settings
-markdown: kramdown
